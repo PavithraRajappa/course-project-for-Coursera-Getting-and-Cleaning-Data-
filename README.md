@@ -1,4 +1,4 @@
-Getting and Cleaning Data
+                                                Getting and Cleaning Data
 
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
@@ -18,4 +18,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 
 
 
-The end result is shown in the file tidy.txt.
+The end result is shown in the file TidySet.txt.
